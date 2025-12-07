@@ -1,0 +1,70 @@
+MATH 339 – Final Exam Study Guide
+Fall 2025 – Dr. Barber
+
+Below is an outline of the key concepts and skills you should be comfortable with for the final exam. Use this guide to organize your studying and check your understanding.
+
+1. Subspaces, Null Space, Column Space, and Rank
+You should be able to:
+
+Compute the null space of a matrix by solving ﻿A x equals 0﻿.
+Identify the dimension of the null space (the nullity).
+Use your null space computation to determine the rank of a matrix.
+Explain what the column space represents in the context of a problem.
+Determine whether a given set is a subspace, and justify your reasoning.
+Compare what the null space and column space mean in an applied context.
+Important to remember:
+
+Null space = all vectors mapped to the zero vector.
+Column space = all linear combinations of the columns.
+For matrices: rank + nullity = number of columns.
+2. Changing Bases and Coordinates
+You should know how to:
+
+Convert coordinate vectors between two different bases.
+Build change-of-basis matrices.
+Apply a transformation to a vector expressed in a non-standard basis.
+Convert your final answer into whichever basis the problem asks for.
+Also review:
+
+How a transformation acts when certain lines are eigen-directions (stretch factors along given lines).
+The process: Convert coordinates, Apply the linear transformation, Convert back into the requested basis.
+3. Eigenvalues, Eigenvectors, and Diagonalization
+Be comfortable with:
+
+Forming and solving the characteristic polynomial.
+Finding a basis of eigenvectors for each eigenvalue.
+Determining when a matrix is diagonalizable. (It must have enough linearly independent eigenvectors.)
+Determining whether a matrix is invertible using its eigenvalues. (A matrix is invertible if 0 is not an eigenvalue.)
+Building the diagonalization ﻿M equals P D P to the power of negative 1 end exponent﻿.
+﻿P﻿: eigenvectors
+﻿D﻿: eigenvalues
+4. Linear Independence and Consequences for Square Matrices
+If the columns of a square matrix ﻿B﻿ are linearly independent, you should know how to conclude:
+
+The columns span all of ﻿real numbers to the power of n﻿.
+The determinant is nonzero.
+The matrix is invertible.
+The transformation ﻿T left parenthesis x right parenthesis equals B x﻿ is one-to-one and onto.
+The null space contains only the zero vector.
+If the columns are dependent, you should know what changes:
+
+Columns do not span ﻿real numbers to the power of n﻿.
+The determinant is zero.
+The matrix is not invertible.
+The transformation is not one-to-one, not onto, or both.
+The null space contains nonzero vectors.
+You should be able to explain each fact in a brief sentence.
+
+5. Linear Transformations, Matrix Representations, and Compositions
+You should know how to:
+
+Build the matrix of a linear transformation from its action on the standard basis.
+Identify the matrix dimensions from the domain and codomain.
+Determine whether a composition like ﻿S ring operator T﻿ or ﻿T ring operator S﻿ is defined (by checking dimensions).
+If a composition is defined, find its matrix and identify its domain and codomain.
+Understanding one-to-one and onto:
+
+A transformation is one-to-one if its kernel contains only the zero vector.
+A transformation is onto if its rank equals the dimension of the codomain.
+You should be able to justify each conclusion using rank and nullity (The Rank-Nullity Theorem or aka The Rank Theorem).
+If you feel confident with everything on this list, you are very well prepared for the final.

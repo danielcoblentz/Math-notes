@@ -1,0 +1,8 @@
+Another conditional probability question
+Two people, whom we call South and North, draw 13 cards out of a deck of 52. South has two aces. What is the probability that North has (a) none? (b) one? (c) the other two?
+
+Try to reason this out informally.
+
+It sounds like an urn problem.
+
+Given that South has a hand of 13 cards with 2 aces, what sort of urn does North draw from?

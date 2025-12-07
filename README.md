@@ -1,6 +1,6 @@
 # Math-notes
 
-A simple repo for my math coruses during 2023 - 2026 there are the following courses.
+A simple repo for my math courses during 2023 - 2026. The following courses are included.
 
 1) MATH 201: `Calculus I`
 2) MATH 202: `Calculus II`

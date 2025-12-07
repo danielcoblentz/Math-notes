@@ -1,0 +1,29 @@
+You should understand the following concepts and be able to perform the following tasks:
+
+1. Matrices and Linear Transformations
+
+Understand that every linear transformation can be represented by a matrix.
+Identify the domain and codomain of a transformation.
+Determine whether a transformation is one-to-one, onto, or invertible.
+Compute and interpret matrix products.
+Understand how matrix multiplication represents the composition of transformations.
+2. Geometric Transformations
+
+Recognize and interpret standard transformations: rotations, reflections, scalings, and shears.
+Visualize how transformations affect the unit square or other figures.
+Determine the resulting matrix from a composition of transformations.
+Identify visually whether a transformation is invertible (for example, whether the image collapses to a line).
+3. Matrix Inverses
+
+Understand what it means for a matrix to be invertible and how that relates to the geometry of a transformation.
+Find the inverse of a 2×2 matrix using the formula or by row reduction.
+Verify that an inverse is correct by checking that A A⁻¹ = I.
+4. Determinants
+
+Understand the determinant as a test for invertibility (det(A) ≠ 0).
+Compute determinants for 2×2 or 3×3 matrices.
+Interpret the determinant geometrically as a measure of area scaling and orientation change.
+5. The Invertible Matrix Theorem
+
+Know the main ideas of the theorem and how they connect.
+Be able to use these facts to justify why a matrix is or is not invertible.
