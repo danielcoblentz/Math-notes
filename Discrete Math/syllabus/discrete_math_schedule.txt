@@ -1,0 +1,389 @@
+DISCRETE MATH COURSE SCHEDULE
+Fall Semester
+
+=============================================================================
+WEEK 1: August 21 - 25
+=============================================================================
+
+Tuesday, August 22
+------------------
+In Class:
+- Introductions
+- Book: https://discrete.openmathbooks.org/dmoi3/
+- Investigate!
+- Logic Definitions
+- WS1 - Truth Tables
+
+Homework:
+- Find Nick's Office by Friday with HW1
+
+Thursday, August 24
+-------------------
+Homework Due:
+- Find Nick's Office by Friday with HW1
+- HW2 posted
+
+
+=============================================================================
+WEEK 2: August 28 - September 1
+=============================================================================
+
+Tuesday, August 29
+------------------
+In Class:
+- Homework Questions
+- More Truth Tables
+- Quantifiers definitions
+- WS2 - Quantifiers
+
+Homework:
+- HW2 posted
+- Trials of Xanthius up early
+
+Thursday, August 31
+-------------------
+Before Class:
+- Finish HW2
+
+In Class:
+- Finish Quantifiers
+- WS3 - Sets
+
+Homework:
+- Rest of HW3 posted
+- Keep working on Trials of Xanthius
+
+
+=============================================================================
+WEEK 3: September 4 - 8
+=============================================================================
+
+Tuesday, September 5
+--------------------
+In Class:
+- Homework Questions
+- Quick Discussion on WS3 - Sets
+- WS3 - Sets Solutions posted
+- Start WS4 - Sets2
+
+Homework:
+- Finish HW3 and Trials of Xanthius
+
+Thursday, September 7
+----------------------
+Before Class:
+- Hand in HW3 at beginning of class
+
+In Class:
+- Finish WS4
+- Discuss WS4
+
+Note:
+- Office Hours on Wednesday, September 6th are canceled
+
+Homework:
+- HW4 posted
+
+
+=============================================================================
+WEEK 4: September 11 - 15
+=============================================================================
+
+Tuesday, September 12
+---------------------
+In Class:
+- Homework Questions
+- Finish WS4 - Sets2
+- Start WS5 - Functions
+
+Homework:
+- Finish HW4
+
+Thursday, September 14
+----------------------
+Before Class:
+- Hand in HW3 at beginning of class
+
+In Class:
+- Finish WS5 - Functions
+- Discuss WS5
+
+Homework:
+- HW5 posted
+
+
+=============================================================================
+WEEK 5: September 18 - 22
+=============================================================================
+
+Tuesday, September 19
+---------------------
+In Class:
+- Homework Questions
+- Finish WS5 Presentations
+- Sandwich options
+- Start WS6 - Counting Basics
+
+Homework:
+- Finish HW5
+
+Thursday, September 21
+----------------------
+Before Class:
+- Hand in HW5 at beginning of class
+
+In Class:
+- Finish WS6
+- Present on WS6
+
+Homework:
+- HW6 posted
+
+
+=============================================================================
+WEEK 6: September 25 - 29
+=============================================================================
+
+Tuesday, September 26
+---------------------
+In Class:
+- Review Day
+
+Thursday, September 28
+----------------------
+Before Class:
+- Study!
+
+In Class:
+- EXAM 1
+
+Homework:
+- HW6 due at beginning of class
+
+
+=============================================================================
+WEEK 7: October 2 - 6
+=============================================================================
+
+Tuesday, October 3
+------------------
+In Class:
+- HW Questions
+- WS7 - Counting Basics 2
+
+Thursday, October 5
+-------------------
+Before Class:
+- HW6 due at beginning of class
+
+In Class:
+- Finish WS7
+- Worksheet 8 – Binomial Coefficients
+
+
+=============================================================================
+WEEK 8: October 9 - 13
+=============================================================================
+
+Tuesday, October 10
+-------------------
+In Class:
+- HW Questions
+- Finish Worksheet 8
+
+Thursday, October 12
+--------------------
+In Class:
+- Class Canceled
+- Read Section 1.4 (and 1.3 if you have not already)
+- Work on Worksheet 9 - Combinatorial Proofs
+
+Homework:
+- Bring HW7 to office by 4:00 pm
+
+
+=============================================================================
+WEEK 9: October 16 - 20
+=============================================================================
+
+Tuesday, October 17
+-------------------
+In Class:
+- Fall Break! No Class
+
+Thursday, October 19
+--------------------
+In Class:
+- Homework Questions
+- Discuss Worksheet 9
+- This is the end of Counting! (Kinda)
+
+Homework:
+- Keep working on HW8, due next Thursday
+
+
+=============================================================================
+WEEK 10: October 23 - 27
+=============================================================================
+
+Tuesday, October 24
+-------------------
+In Class:
+- Homework Questions
+- TBD
+
+Thursday, October 26
+--------------------
+In Class:
+- TBD
+
+Homework:
+- HW8 due at beginning of class
+
+
+=============================================================================
+WEEK 11: October 30 - November 3
+=============================================================================
+
+Tuesday, October 31
+-------------------
+In Class:
+- Homework Questions
+- Arithmetic and Geometric Sequences
+- Partial Sums
+- Intro to basic Proof
+- Last day of new material on Exam 2
+
+Solutions Posted:
+- WS12 - Partial Sums Solutions
+- WS13 - Proof1 Solutions
+
+Note:
+- Exam 2 on Thursday, 11/9
+
+Thursday, November 2
+--------------------
+Before Class:
+- HW9 due at beginning of class
+
+
+=============================================================================
+WEEK 12: November 6 - 10
+=============================================================================
+
+Tuesday, November 7
+-------------------
+In Class:
+- Review Day
+- Come with Questions!
+
+Resources Posted:
+- HW7 and HW8 Solutions in Assignments
+- Worksheet Solutions on Week 11 Schedule
+
+Thursday, November 9
+--------------------
+In Class:
+- EXAM 2
+
+
+=============================================================================
+WEEK 13: November 13 - 17
+=============================================================================
+
+Tuesday, November 14
+--------------------
+In Class:
+- Homework Questions
+- Worksheet 14 - Proof 2
+- Induction!
+
+Thursday, November 16
+---------------------
+In Class:
+- Worksheet 15 - Induction Proof
+
+
+=============================================================================
+WEEK 14: November 20 - 24
+=============================================================================
+
+Tuesday, November 21
+--------------------
+In Class:
+- Exam 2 hand back
+- Corrections
+- Worksheet 15 Continued
+
+Thursday, November 23
+---------------------
+In Class:
+- Thanksgiving Break - No class!
+
+
+=============================================================================
+WEEK 15: November 27 - December 1
+=============================================================================
+
+Tuesday, November 28
+--------------------
+In Class:
+- HW Questions
+- Proof Practice
+- Last Day of new Material
+- Last Day of Discrete Math!
+
+Thursday, November 30
+---------------------
+In Class:
+- Review Day
+- Come prepared with specific questions
+
+Homework:
+- HW11 Due
+
+
+=============================================================================
+ORAL EXAM SCHEDULE
+=============================================================================
+
+Thursday, December 7th
+-----------------------
+10:00 - Lizbeth Perez
+2:00 - Patrick Vassallo
+2:20 - Ryan Stewart
+
+Friday, December 8th
+---------------------
+11:20 - Mac Arida
+2:40 - Colin Flanagan
+3:00 - Jaden Johnson
+3:20 - Jeremias Argueta
+3:40 - Maaz Ashfaq
+
+Monday, December 11th
+----------------------
+9:40 - Montserrat Flores Castillo
+10:00 - Ky Kuhlman
+10:40 - Mike Sislow
+12:00 - Easton Kite
+12:40 - Jonathan Mathis
+1:00 - Kelin Argueta
+1:40 - Dan Coblentz
+2:00 - Maddie Sheffield
+2:20 - Salum Matope
+
+
+=============================================================================
+COURSE TOPICS BY WEEK
+=============================================================================
+
+Weeks 1-2: Logic and Truth Tables, Quantifiers
+Week 3: Sets
+Weeks 4-5: Sets and Functions
+Week 6: EXAM 1
+Weeks 7-9: Counting (Basics, Binomial Coefficients, Combinatorial Proofs)
+Weeks 10-11: Sequences, Partial Sums, Introduction to Proof
+Week 12: EXAM 2
+Weeks 13-15: Proof Techniques and Induction
+Finals Week: Oral Exams
