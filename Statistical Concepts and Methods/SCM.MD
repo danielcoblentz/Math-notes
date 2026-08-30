@@ -61,7 +61,7 @@ Resources
 
 Resources
 - Lecture slides: [Describing scatterplots](lecture slides/Week 5/Describing scatterplots.pptx.pdf) • [Height and Weight](lecture slides/Week 5/Height and Weight.pptx.pdf)
-- Assignments: [Assignment 4 - Categorial variables (one and two)](assignments/Assignment 4 - Categorial variables (one and two)/single categorical.pdf)
+- Assignments: [Assignment 4 - Categorical variables (one and two)](assignments/Assignment%204%20-%20Categorical%20variables%20%28one%20and%20two%29/single%20categorical.pdf)
 - Homework: [Homework 6](homework/Homework 6/) • [Homework 7](homework/Homework 7/)
 
 ---
@@ -79,7 +79,7 @@ Resources
 **Overview / In-class:** Checking linear model conditions, correlation, categorical predictors, midterm prep.
 
 Resources
-- Lecture slides: [Correlation & R2](lecture slides/Week 7/Correlation coefficient (r) and the Coefficient of Determination (R2).pptx.pdf) • [Cats and Houses](lecture slides/Week 7/Cats and Houses_ Single Categorical predictor.pptx.pdf)
+- Lecture slides: [Correlation & R2](lecture%20slides/Week%207/Correlation%20coefficient%20%28r%29%20and%20the%20Coefficient%20of%20Determination%20%28R2%29.pptx.pdf) • [Cats and Houses](lecture slides/Week 7/Cats and Houses_ Single Categorical predictor.pptx.pdf)
 - Assignments: [Assignment 5 - Frederick Houses](assignments/Assignment 5 - Frederick Houses/frederickhousesales.pdf)
 - Homework: [Homework 9](homework/Homework 9/)
 
@@ -89,7 +89,7 @@ Resources
 **Overview / In-class:** Hypothesis testing simulations (sex discrimination, weight-loss), randomization tests, StatKey instruction.
 
 Resources
-- Lecture slides: [Sex discrimination study](lecture slides/Week 8/1-Sex discrimination case study (1974).pptx.pdf) • [Weight Loss Study Randomization Test](lecture slides/Week 8/Weight-Loss Study Randomization Test.pptx.pdf)
+- Lecture slides: [Sex discrimination study](lecture%20slides/Week%208/1-Sex%20discrimination%20case%20study%20%281974%29.pptx.pdf) • [Weight Loss Study Randomization Test](lecture slides/Week 8/Weight-Loss Study Randomization Test.pptx.pdf)
 - Homework: [Homework 10](homework/Homework 10/)
 
 ---
@@ -107,7 +107,7 @@ Resources
 **Overview / In-class:** Confidence intervals, bootstrap vs sampling distributions, midterm review.
 
 Resources
-- Lecture slides: [Intro to CI](lecture slides/Week 10/Intro to the idea of a confidence interval.pptx.pdf) • [Bootstrap vs sampling distribution](lecture slides/Week 10/Samping distribution vs bootstrap distribution.pdf)
+- Lecture slides: [Intro to CI](lecture slides/Week 10/Intro to the idea of a confidence interval.pptx.pdf) • [Bootstrap vs sampling distribution](lecture slides/Week 10/Sampling distribution vs bootstrap distribution.pdf)
 - Homework: [Homework 12](homework/Homework 12/)
 
 ---
@@ -136,7 +136,7 @@ Resources
 **Overview / In-class:** SPIRES symposium; differences in proportions/means; Rossman/Chance applet practice.
 
 Resources
-- Lecture slides: [Two_means](lecture slides/Week 13/Two_means.pptx.pdf) • [Difference of means practice](lecture slides/Week 13/Difference of means - Practice.pdf)
+- Lecture slides: [Two_means](lecture slides/Week 13/Two_means.pptx.pdf) • [Difference of means practice](lecture slides/Week 13/Difference of means - Practice.pptx.pdf)
 - Homework: [Homework 14](homework/Homework 14/)
 
 ---
@@ -146,7 +146,7 @@ Resources
 
 Resources
 - Lecture slides: [Analyzing Experiments](lecture slides/Week 14/Analyzing Experiments.pptx.pdf) • [Hypothesis testing in R](lecture slides/Week 14/Hypothesis testing in R.pptx.pdf)
-- Assignments: [Assignment 6 - Mini Term Project](assignments/Assignment 6 - Mini Term Project/projct_fin.pdf)
+- Assignments: [Assignment 6 - Mini Term Project](assignments/Assignment 6 - Mini Term Project/project_fin.pdf)
 - Homework / Final Project: [Homework 15](homework/Homework 15/)
 
 ---
